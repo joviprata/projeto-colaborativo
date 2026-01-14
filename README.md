@@ -5,7 +5,7 @@ Este projeto tem como objetivo simular o fluxo básico de trabalho utilizando o 
 ## 1. Criação do repositório no GitHub, README.md e tarefas.txt:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6dbca72e-4827-4bee-9b85-8e8d0bed58df">
+  <img src="https://github.com/user-attachments/assets/c9520d13-0947-46d7-8798-cd11618333b2">
 </p>
 
 O repositório foi criado com as configurações apresentadas no print.<br/>
@@ -19,7 +19,7 @@ Em seguida, foi criado o arquivo tarefas.txt com duas tarefas iniciais:
 ## 2. Criação da branch feature-nova-tarefa:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a84302fb-2432-4270-ab5e-bd51e654ada6">
+  <img src="https://github.com/user-attachments/assets/f90305f7-2738-41ff-9cfa-05377f80c434">
 </p>
 
 O repositório foi clonado localmente usando ```git clone``` e ```git pull```. Em seguida, a pasta contendo o repositório foi aberta no VSCode, onde foi criado a nova branch feature-nova-tarefa usando o terminal.
@@ -27,7 +27,7 @@ O repositório foi clonado localmente usando ```git clone``` e ```git pull```. E
 ## 3. Criação dos commits:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/50fc0a8b-3c5a-4d30-aecd-ca72881dfcbe">
+  <img src="https://github.com/user-attachments/assets/bf80954b-f3c1-4c56-863f-07261d7f0397">
 </p>
 
 Dois commits foram realizados na branch feature-nova-tarefa: "criação de helloworld.js" e "adicionadas duas novas tarefas ao arquivo tarefas.txt", de tal forma que o arquivo tarefas.txt ficou assim:
@@ -42,7 +42,7 @@ Dois commits foram realizados na branch feature-nova-tarefa: "criação de hello
 ### 4. Push da branch para o remoto:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/035ac9f9-3323-4064-8cf6-4359e8412302">
+  <img src="https://github.com/user-attachments/assets/d58635b7-6e35-4654-8af2-4bfb4b93f6ec">
 </p>
 
 Uma tentativa inicial de executar o comando ```git push``` deu erro, como se pode observar no print. Isso se deve ao fato de a branch ter sido criada localmente, e não ter sido encontrada no GitHub.<br/>
